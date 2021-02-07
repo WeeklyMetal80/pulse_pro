@@ -1,0 +1,12 @@
+@media (max-width: 991px) {
+    .header {
+        justify-content: space-around;
+    }
+    .promo {
+        &__wrapper {
+            padding-right: 5%;
+        }
+    }
+}
+
+    
